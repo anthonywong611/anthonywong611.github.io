@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[City of San Franscisco Data Warehousing](/sample_page)
+<img src="images/aws_architecture.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Batch ETL Data Pipeline for HR Analytics](/pdf/sample_presentation.pdf)
+<img src="images/pipeline_design.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Simple Flask Application on GCP](http://example.com/)
+<img src="images/gcp_arcitecture.png?raw=true"/>
 
 ---
 
